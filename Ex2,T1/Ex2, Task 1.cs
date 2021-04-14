@@ -6,17 +6,14 @@ namespace NestedSubTask
     {
         static void Main(string[] args)
         {
-        Console.WriteLine("Give me your name!!");
-        string Name = Console.ReadLine();
-
         int counter = 0;
         int counter2 = 0;
 
-        while (counter < 10) {
+        while (counter < 5) {
         counter2 = counter;
         
-        while (counter2 < 10) {
-        System.Console.Write(Name + " ");
+        while (counter2 < 5) {
+        System.Console.Write("x");
         counter2++;
         
         }

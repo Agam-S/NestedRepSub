@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/agamsingh/Documents/CProjects/NestedSubTask/Ex2,T1/NestedSubTask.csproj": {}
+    "/Users/agamsingh/NestedRepSub/Ex2,T1/NestedSubTask.csproj": {}
   },
   "projects": {
-    "/Users/agamsingh/Documents/CProjects/NestedSubTask/Ex2,T1/NestedSubTask.csproj": {
+    "/Users/agamsingh/NestedRepSub/Ex2,T1/NestedSubTask.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/agamsingh/Documents/CProjects/NestedSubTask/Ex2,T1/NestedSubTask.csproj",
+        "projectUniqueName": "/Users/agamsingh/NestedRepSub/Ex2,T1/NestedSubTask.csproj",
         "projectName": "NestedSubTask",
-        "projectPath": "/Users/agamsingh/Documents/CProjects/NestedSubTask/Ex2,T1/NestedSubTask.csproj",
+        "projectPath": "/Users/agamsingh/NestedRepSub/Ex2,T1/NestedSubTask.csproj",
         "packagesPath": "/Users/agamsingh/.nuget/packages/",
-        "outputPath": "/Users/agamsingh/Documents/CProjects/NestedSubTask/Ex2,T1/obj/",
+        "outputPath": "/Users/agamsingh/NestedRepSub/Ex2,T1/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/agamsingh/.nuget/NuGet/NuGet.Config"
