@@ -6,21 +6,23 @@ namespace Ex2_T2
     {
         static void Main(string[] args)
         {
-        int counter = 0;
+        System.Console.WriteLine("Enter the amount of lines: ");
+        string Lines = Console.ReadLine();
+        int number = int.Parse(Lines);
+
+
+        int counter1 = 1;
         int counter2 = 0;
         
-        while (counter < 5) {
-        counter++;
+        while (counter1 < number) {
         
-        while (counter2 < counter) {
+        while (counter2 < counter1)
+        counter2++; 
         System.Console.Write("x");
-        counter2++;
-        }
-        
         System.Console.WriteLine();
-       
-        }
-
+        counter1++;
+        
+        }  
 
         }
     
