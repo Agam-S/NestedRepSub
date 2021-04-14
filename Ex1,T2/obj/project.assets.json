@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/agamsingh/Documents/CProjects/NestedSubTask/Ex1,T2/Ex1,T2.csproj",
+      "projectUniqueName": "/Users/agamsingh/NestedRepSub/Ex1,T2/Ex1,T2.csproj",
       "projectName": "Ex1,T2",
-      "projectPath": "/Users/agamsingh/Documents/CProjects/NestedSubTask/Ex1,T2/Ex1,T2.csproj",
+      "projectPath": "/Users/agamsingh/NestedRepSub/Ex1,T2/Ex1,T2.csproj",
       "packagesPath": "/Users/agamsingh/.nuget/packages/",
-      "outputPath": "/Users/agamsingh/Documents/CProjects/NestedSubTask/Ex1,T2/obj/",
+      "outputPath": "/Users/agamsingh/NestedRepSub/Ex1,T2/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/agamsingh/.nuget/NuGet/NuGet.Config"
