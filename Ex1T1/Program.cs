@@ -19,7 +19,7 @@ namespace Ex1T1
         System.Console.Write(Name + " ");
         counter++;
         }
-
+        
         
         }
 
