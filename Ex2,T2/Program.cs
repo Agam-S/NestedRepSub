@@ -10,14 +10,11 @@ namespace Ex2_T2
         string Lines = Console.ReadLine();
         int number = int.Parse(Lines);
 
-
-        int counter1 = 1;
-        int counter2 = 0;
+        int counter1 = 0;
         
         while (counter1 < number) {
-        
-        while (counter2 < counter1)
-        counter2++; 
+        int counter2 = 0;
+        while (counter2++ < counter1)
         System.Console.Write("x");
         System.Console.WriteLine();
         counter1++;
